@@ -4,8 +4,8 @@
 4. Run test.py
 
 ### Tasks:
-a)	Extract features from Meal and No Meal data
-b)	Make sure that the features are discriminatory
-c)	Train a separate machine to recognize Meal or No Meal data
-d)	Use k fold cross validation on the training data to evaluate your recognition system
-e)	Write a function that takes one test sample as input and outputs 1 if it predicts the test sample as meal or 0 if it predicts test sample as No meal. 
+* Extract features from Meal and No Meal data
+* Make sure that the features are discriminatory
+* Train a separate machine to recognize Meal or No Meal data
+* Use k fold cross validation on the training data to evaluate your recognition system
+* Write a function that takes one test sample as input and outputs 1 if it predicts the test sample as meal or 0 if it predicts test sample as No meal. 
